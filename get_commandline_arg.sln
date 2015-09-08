@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "get_commandline_arg", "get_commandline_arg\get_commandline_arg.csproj", "{0C47AA2D-5533-4686-90DC-C80972F1F481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C47AA2D-5533-4686-90DC-C80972F1F481}.Debug|x86.ActiveCfg = Debug|x86
+		{0C47AA2D-5533-4686-90DC-C80972F1F481}.Debug|x86.Build.0 = Debug|x86
+		{0C47AA2D-5533-4686-90DC-C80972F1F481}.Release|x86.ActiveCfg = Release|x86
+		{0C47AA2D-5533-4686-90DC-C80972F1F481}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
